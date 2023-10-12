@@ -1,0 +1,56 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.container
+{
+    height: 90vh;
+    margin:2rem;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+}
+.cell
+{
+    color: #fff;
+    font-size: 3rem;
+    text-align: center;
+    padding: 4rem;
+}
+.cell-1
+{
+    background: #5D6D7E ;
+}
+.cell-2
+{
+    background:#FFC300;
+}
+.cell-3
+{
+    background: #2E4053;
+}
+.cell-4
+{
+    background: #DAF7A6 ;
+}
+.cell-5
+{
+    background: #91C595 ;
+}
+.cell-6
+{
+    background: #998373;
+}
+.cell-7
+{
+    background: #493C33;
+}
+.cell-8
+{
+    background: #A485A4;
+}
+.cell-9
+{
+    background: #3D3C4F;
+}
